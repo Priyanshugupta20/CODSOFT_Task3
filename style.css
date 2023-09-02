@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    background-image: url(pic.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    color: black;
+
+}
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 20px;
+    margin: 10px;
+    background-color: white;
+    color: black;
+    outline: auto;
+}
+
+.btn{
+    width: 60px;
+    height: 60px;
+    border-radius: 80px;
+}
+
+.btn:hover{
+    background-color:yellow;
+    cursor: pointer;
+}
+
+
+
